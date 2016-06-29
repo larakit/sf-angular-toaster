@@ -4,7 +4,8 @@
     "version": "2.0.0",
     "license": "MIT",
     "require":{
-        "larakit/lk-staticfiles":"*"
+        "larakit/lk-staticfiles":"*",
+        "larakit/lk-page":"*"
     },
     "autoload": {
         "files": [
