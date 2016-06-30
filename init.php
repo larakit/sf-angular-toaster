@@ -1,5 +1,5 @@
 <?php
-\Larakit\StaticFiles\Manager::package('larakit/sf-angularjs-toaster')
+\Larakit\StaticFiles\Manager::package('larakit/sf-angular-toaster')
     ->usePackage('larakit/sf-angular')
     ->ngModule('toaster')
     ->js('//cdnjs.cloudflare.com/ajax/libs/angularjs-toaster/2.0.0/toaster.min.js')
