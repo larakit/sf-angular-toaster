@@ -1,6 +1,6 @@
 {
-    "name": "larakit/sf-angularjs-toaster",
-    "description": "[Larakit] [staticfiles] sf-angularjs-toaster",
+    "name": "larakit/sf-angular-toaster",
+    "description": "[Larakit] [staticfiles] sf-angular-toaster",
     "version": "2.0.0",
     "license": "MIT",
     "require":{
